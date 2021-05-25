@@ -1,6 +1,6 @@
 {
   "name": "eleventy-plugin-logical-content-flow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Eleventy linter plugin to check for issues with the Logical Content Flow of the heading elements on your site.",
   "main": ".eleventy.js",
   "scripts": {
@@ -12,7 +12,7 @@
   ],
   "author": "Chris Johnson (https://defaced.dev)",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^4.1.1",
     "jsdom": "^16.6.0"
   },
