@@ -10,7 +10,7 @@
     "eleventy",
     "eleventy-plugin"
   ],
-  "author": "",
+  "author": "Chris Johnson (https://defaced.dev)",
   "license": "ISC",
   "devDependencies": {
     "chalk": "^4.1.1",
@@ -18,5 +18,13 @@
   },
   "peerDependencies": {
     "@11ty/eleventy": ">=0.6.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/workeffortwaste/eleventy-plugin-logical-content-flow/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workeffortwaste/eleventy-plugin-logical-content-flow.git"
+  },
+  "homepage": "https://github.com/workeffortwaste/eleventy-plugin-logical-content-flow/"
 }
